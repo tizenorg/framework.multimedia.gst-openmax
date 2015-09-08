@@ -1,8 +1,0 @@
-gst-openmax (0.10.1-1slp2+21) unstable; urgency=low
-
-  * Initial Release.
-  * Git: pkgs/g/gst-openmax
-  * Tag: gst-openmax_0.10.1-1slp2+21
-
- -- Hyunseok Lee <hs7388.lee@samsung.com>  Tue, 22 Feb 2012 14:05:21 +0900
-
